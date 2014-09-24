@@ -1,0 +1,24 @@
+{
+  "name": "md-clean",
+  "version": "0.1.0",
+  "description": "Converts a Markdown document with TOML front matter into a pure Markdown document.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/colinbate/md-clean"
+  },
+  "keywords": [
+    "markdown",
+    "toml",
+    "clean"
+  ],
+  "author": "Colin Bate <colin@colinbate.com>",
+  "license": "MIT",
+  "dependencies": {
+    "kew": "^0.4.0",
+    "toml": "^2.0.6"
+  }
+}
