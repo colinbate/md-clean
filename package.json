@@ -18,7 +18,6 @@
   "author": "Colin Bate <colin@colinbate.com>",
   "license": "MIT",
   "dependencies": {
-    "kew": "^0.4.0",
     "toml": "^2.0.6"
   }
 }
